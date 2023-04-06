@@ -1,1 +1,1 @@
-# GrouProject
+# GroupProject
